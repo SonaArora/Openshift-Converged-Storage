@@ -142,6 +142,6 @@ repos
 package_list
 dns
 passwordless_ssh
-docker_setup
+#docker_setup
 exit
 
